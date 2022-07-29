@@ -22,7 +22,7 @@ Telegram 群组：[V2EX](https://t.me/V2EXPro)
 
 ![](https://i.imgur.com/vOHGsX8.png)
 
-## 完善 Apple ID
+## 二、完善 Apple ID
 
 1、iPhone 打开美国代理（全局模式）。\
 2、App Store 登录刚刚注册的美区 Apple ID。\
