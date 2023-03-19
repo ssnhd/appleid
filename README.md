@@ -2,7 +2,9 @@
 
 众所周知，美区 App Store 应用最全，且 iCloud 云盘不是放在云上贵州，今天教大家如何注册美区 Apple ID。
 
-Telegram 群组：[V2EX](https://t.me/V2EXPro)
+## 出售 Apple ID
+
+商店：<https://ssnhd.com/2023/03/19/store>
 
 ## 一、创建 Apple ID
 
