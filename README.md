@@ -1,42 +1,28 @@
-# 注册美区 Apple ID 方法
+# 外区 Apple ID 使用方法
 
-众所周知，美区 App Store 应用最全，且 iCloud 云盘不是放在云上贵州，今天教大家如何注册美区 Apple ID。
+## 重要
+1. 务必要先修改邮箱和密码
+2. App Store 里退出其他账号，登录新账号安装 App
 
-## 出售 Apple ID
+## 修改邮箱和密码
 
-商店：<https://ssnhd.com/2023/03/19/store>
+1. 打开 <https://appleid.apple.com/sign-in> 按提示输入账号、密码、密保答案登录
+2. 先修改 Apple ID 账号邮箱
+3. 再修改密码
 
-## 一、创建 Apple ID
+![](https://i.imgur.com/oX6Uo8v.png)
 
-1、打开 [Apple](https://appleid.apple.com/account) 官网，创建您的 Apple ID，输入名字、国家`美国`、邮箱、密码、电话号码，点击**继续**。
+## 使用
 
-![](https://i.imgur.com/HGmi1ce.png)
+注：不要在设置里登录 iCloud，而是在 App Store 登录使用！
 
-2、输入邮箱收到的验证码。
+1、打开 App Store 点击右上角**头像**，下滑至底部点击**退出登录**。
 
-![](https://i.imgur.com/JvEA4cM.png)
+![](https://i.imgur.com/yUU2nmv.jpg)
 
-3、输入手机收到的验证码。
+2、登录新 Apple ID
 
-![](https://i.imgur.com/fOaZWjk.png)
+App Store 点击右上角空白头像，输入 Apple ID 账号密码登录。登录成功后，等待几秒，App Store会自动切换至账号对应的国家，可以愉快的安装 App 了。
 
-4、初步注册完成。
+![](https://i.imgur.com/7NNJM5f.jpg)
 
-![](https://i.imgur.com/vOHGsX8.png)
-
-## 二、完善 Apple ID
-
-1、iPhone 打开美国代理（全局模式）。\
-2、App Store 登录刚刚注册的美区 Apple ID。\
-3、因为账号尚未使用过，所以需要验证，点击**检查**。\
-4、同意条款与条件，点击**下一步**。
-
-![](https://i.imgur.com/V8i8Hb6.jpg)
-
-5、付款方式选择**无**（代理必须是全局美国才会显示`无`），如果有美区 PayPal 也可以选择。\
-6、输入英文名字、美国地址、邮编、电话。\
-7、点击**继续**，到此美区 Apple ID 已经可以使用。
-
-> 注：如果没有美国地址，可以使用[美国地址生成器](https://www.meiguodizhi.com/)。
-
-![](https://i.imgur.com/XzXAFXm.jpg)
