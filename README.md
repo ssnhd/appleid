@@ -7,8 +7,9 @@
 ## 修改邮箱和密码
 
 1. 打开 <https://appleid.apple.com/sign-in> 按提示输入账号、密码、密保答案登录
-2. 先修改 Apple ID 账号邮箱
-3. 再修改密码
+2. 如果提示两步验证，建议绑定手机号开启，安全一点
+3. 先修改 Apple ID 账号邮箱
+4. 再修改密码
 
 ![](https://i.imgur.com/oX6Uo8v.png)
 
