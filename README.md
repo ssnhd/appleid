@@ -9,10 +9,10 @@
 
 ## 在网页上更改邮箱和密码
 
-1. 登录 [appleid.apple.com](https://appleid.apple.com/)\
+1. 登录 [appleid.apple.com](https://appleid.apple.com/)
 2. 在“登录和安全”部分，选择“Apple ID”更改邮箱，选择“密码”更改密码。
 
-【注】登录时如果显示密码错误，打开 <iforgot.apple.com> 通过安全问题(密保)改一下密码。
+【注】登录时如果显示密码错误，打开 [iforgot.apple.com](iforgot.apple.com) 通过安全问题(密保)改一下密码。
 ![](https://i.imgur.com/CEM6qcF.png)
 
 ## 在 iPhone、iPad 上登录
