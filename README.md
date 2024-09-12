@@ -5,8 +5,6 @@
 【注】在 App Store 里登录，不要在设置里登录 iCloud，否则账号出问题导致手机被锁后果自负！！！\
 【注】在 App Store 里登录，不要在设置里登录 iCloud，否则账号出问题导致手机被锁后果自负！！！
 
-登录时如果提示 Apple ID 安全，建议选择**升级账户安全**（双重认证的意思），绑定手机号账号更安全。
-
 ## 在网页上更改邮箱和密码
 
 1. 登录 [appleid.apple.com](https://appleid.apple.com/)
@@ -14,6 +12,11 @@
 
 【注】登录时如果显示密码错误，打开 [iforgot.apple.com](iforgot.apple.com) 通过安全问题(密保)改一下密码。
 ![](https://i.imgur.com/CEM6qcF.png)
+
+## 关于密保
+网页登录 Apple ID 时会出现【Apple ID 安全】，也就是双重认证，点击**其他选项**跳过就好。
+
+【注】先不要绑定手机号，因为绑定了就无法修改密保，所以建议修改密保后再绑定。
 
 ## 在 iPhone、iPad 上登录
 
