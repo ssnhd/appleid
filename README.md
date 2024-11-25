@@ -2,8 +2,7 @@
 
 购买：https://t.me/GVStore
 
-【注】在 App Store 里登录，不要在设置里登录 iCloud，否则手机被锁后果自负！\
-【注】在 App Store 里登录，不要在设置里登录 iCloud，否则手机被锁后果自负！
+⚠️在 App Store 里登录，⚠️不要在设置里登录 iCloud，否则手机被锁后果自负！
 
 ## 在网页上更改邮箱和密码
 
