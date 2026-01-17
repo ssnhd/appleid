@@ -5,10 +5,10 @@
 
 ## 更改邮箱、密码
 
-1. 电脑网页打开  https://account.apple.com 并登录。若弹出【Apple ID 安全】选择【其他选项】→【不升级】。
-2. 在“登录和安全”部分，选择【Apple 账户】更改邮箱，添加自己的邮箱后删除原邮箱。
-3. 再返回更改【密码】。
-![](https://i.imgur.com/knuXDH2.png)
+1. 电脑浏览器打开  https://account.apple.com 并登录。注：若弹出【Apple ID 安全】选择【其他选项】→【不升级】。
+2. 在“登录和安全”部分，选择【电子邮箱】添加自己的邮箱，然后删除原邮箱。
+3. 再更改【密码】。
+![](https://i.imgur.com/hHLQVDk.png)
 
 ## 更改密保
 
